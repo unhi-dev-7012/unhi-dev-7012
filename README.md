@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uyen Nhi</h1>
 <h3 align="center">A passionate fullstack developer from Vietnam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unhi-dev-7012" alt="unhi-dev-7012" /></a> </p>
+- 📫 You can reach out to me at **fanhi11211@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
