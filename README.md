@@ -22,8 +22,6 @@
 <p align="center">
    <img width="500px" src="https://skillicons.dev/icons?i=bootstrap,css,html,js,react,nodejs,express,cs,nestjs,java,cpp,mysql,postgres,firebase,docker,postman,figma,selenium,typescript,git&perline=10" />
 </p>
-<br />
-
 
 <h2> My Statistics <img src = "https://i.pinimg.com/originals/91/1e/b1/911eb1f2cff48f9a4179835007eb7fbd.gif" width = 32px> </h2>
 
