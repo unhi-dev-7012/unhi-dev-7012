@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Uyen Nhi</h1>
 <h3 align="center">A passionate fullstack developer from Vietnam</h3>
 
+- 👩‍🎓 I'm a fourth-year student at **VNU-University of Science, where I've been cultivating my skills in software engineering.**
+
+- 🌱 I'm passionate about open source and **love contributing to projects that benefit the developer community.**
+
+- 🔭 Through various university projects, **I have gained experience in C++, C#, JavaScript. I am eager to further develop my technical skills and contribute to successful projects**
+
+- 👯‍♀️ I’m open to collaborating on exciting projects, **especially those that challenge me to grow and learn new things.**
+
 - 📫 You can reach out to me at **fanhi11211@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
