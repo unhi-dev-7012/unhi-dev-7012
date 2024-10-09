@@ -36,7 +36,7 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=unhi-dev-7012&show_icons=true&theme=tokyonight" /> 
 </td>
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=unhi-dev-7012&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=unhi-dev-7012&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=8"/>
   </td>
 </tr>
 </table>
